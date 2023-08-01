@@ -1,0 +1,100 @@
+#title {
+    color: aliceblue;
+    background-color: rgb(48, 203, 208);
+}
+
+#features {
+    padding: 7% 14% ;
+}
+#press {
+    text-align: center;
+    background-color: rgb(48, 203, 208);
+    padding-bottom: 3%;
+}
+
+#testimonials{
+    padding: 5%;
+    background-color: rgb(48, 203, 208);
+    text-align: center;
+}
+#pricing {
+    padding: 7%;
+}
+#cta {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(48, 203, 208);
+    padding-bottom: 5%;
+}
+#footer {
+    text-align: center;
+    padding-top: 3%;
+}
+
+@media (max-width: 1020px) {
+    #title {
+        text-align: center;
+    }
+    
+}
+
+body {
+    font-family:'Montserrat-Black', sans-serif;
+}
+
+h1 {
+    font-size: 5rem;
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+h2 {
+    font-weight: bolder;
+    color: rgb(0, 3, 5);
+}
+h3 {
+    font-size: 1rem ;
+}
+.prim{
+    width: 10%;
+}
+.dog{
+    padding-top: 4%;
+    width: 10%;
+    border-radius: 100%;
+}
+.container {
+    padding: 3% 15%;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+.navbar-item {
+    padding: 0 20px;
+}
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.fet-box {
+    padding: 5%;
+    text-align: center;
+}
+.icon {
+    margin-bottom: 1rem;
+}
+.icon:hover {
+    color:  rgb(48, 203, 208);
+}
+.card {
+    padding: 3%;
+}
+.brand {
+    padding: 1%;
+}
+.naruto {
+    position: relative;
+    size: 50%;
+}
